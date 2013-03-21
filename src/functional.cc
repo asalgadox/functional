@@ -1,11 +1,14 @@
 ////////////////////////////////////////////////////////////////////////////
 //
-// 	Filename: functional.cc
-// 	Description: a C++ implementation of functional programming primitives
-// 		  		 map, reduce, and filter using std::vector and function
-//				 pointers
-//	Author: Anthony Salgado
-//	Date: March 19, 2012
+// 	Filename: 
+//		functional.cc
+// 	Description: 
+// 		A C++ implementation of functional programming primitives map, reduce, 
+//		and filter using std::vector and function pointers
+//	Author: 
+//		Anthony Salgado
+//	Date: 
+//		March 19, 2012
 //				
 ////////////////////////////////////////////////////////////////////////////
 
